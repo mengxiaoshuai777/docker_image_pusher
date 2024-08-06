@@ -1,2 +1,2 @@
-HerbertHe/iptv-sources：1.6.1
+linuxserver/jellyfin
 
