@@ -1,1 +1,1 @@
-AlistGo/alist:3.40.0
+xhofe/alist:latest
