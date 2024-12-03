@@ -1,2 +1,2 @@
 linuxserver/jellyfin
-AlistGo/alist
+AlistGo/alist:latest
